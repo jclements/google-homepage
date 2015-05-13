@@ -1,0 +1,151 @@
+body, td, a, p, .h {
+  font-family: arial,sans-serif;
+}
+
+body, html {
+  font-size: small;
+}
+
+a {
+  color: #12c;
+  text-decoration: none;
+}
+
+input[type="submit"]
+{
+  height: 29px;
+  line-height: 27px;
+}
+
+input[type="submit"]
+{
+  background-image: -webkit-gradient(linear,left top,left bottom,from(#f5f5f5),to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+  -webkit-border-radius: 2px;
+  -webkit-user-select: none;
+  background-color: #f5f5f5;
+  background-image: linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-image: -o-linear-gradient(top,#f5f5f5,#f1f1f1);
+  border: 1px solid #dcdcdc;
+  border: 1px solid rgba(0,0,0,0.1);
+  border-radius: 2px;
+  color: #444;
+  cursor: default;
+  font-family: arial,sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  margin: 11px 8px;
+  min-width: 54px;
+  padding: 0 8px;
+  text-align: center;
+}
+
+input, textarea, keygen, select, button {
+  margin: 0em;
+  font: normal normal normal 13.3333330154419px/normal Arial;
+  text-rendering: auto;
+  color: initial;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: start;
+}
+
+form {
+	width:833px;
+	margin: 0 auto;
+}
+
+.searchWrap {
+	margin-top: 20px;
+	padding-left: 173px;
+	padding-right: 173px;
+	margin-bottom: 40px;
+}
+
+.cent {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo {
+	height: 95px;
+	width: 269px;
+}
+
+.centDiv {
+	width:50%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.userImg {
+	border-radius: 50%;
+}
+
+.share {
+	background: url(https://ssl.gstatic.com/gb/images/i1_71651352.png);
+	background-size: 356px 144px;
+	background-position: -326px -17px;
+	height: 30px;
+	width: 30px;
+}
+
+.options {
+	background: url(https://ssl.gstatic.com/gb/images/i1_71651352.png);
+	background-size: 356px 144px;
+	background-position: -326px -52px;
+	height: 30px;
+	width: 30px;
+}
+
+.navlist {
+	position: relative
+}
+
+.notifications a {
+	background: url(https://ssl.gstatic.com/gb/images/i1_71651352.png);
+	background-size: 356px 144px;
+	background-position: -214px -117px;
+	height: 30px;
+	width: 30px;
+	vertical-align: middle;
+	position:relative;
+}
+
+.navli {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	top: 0; 
+	position: absolute;
+
+}
+
+li {
+	display: inline;
+}
+
+.navWrap li, .navWrap a {
+    height: 30px; display: block;}
+
+.navWrap {
+	text-align: right;
+	position: relative;
+}
+
+.textcolor {
+	color:#404040;
+}
+
+.plus {right: 280px; top:6px;}
+.gmail {right: 235px; top:6px;}
+.images {right: 180px; top:6px;}
+.options {right: 145px; opacity: .55;}
+.notifications {right: 100px; opacity: .55; background-color: black; border-radius: 50%}
+.shareli {right: 65px; opacity: .55;}
+.userimhli {right: 20px;}
